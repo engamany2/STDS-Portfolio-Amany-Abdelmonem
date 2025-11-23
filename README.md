@@ -51,6 +51,6 @@ This repository includes a series of focused data analysis projects that showcas
 
   - Key Insight 🧠: Large and Classic pizzas drive the most revenue. The Thai Chicken Pizza is the top-earning individual product, and peak operational readiness is required on weekends around dinner time.
 
-  ![Project 3](Power Bi/README.md)
+  ![Project 3](Power_Bi/README.md)
 
 ---
