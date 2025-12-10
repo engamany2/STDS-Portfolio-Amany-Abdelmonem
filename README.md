@@ -54,3 +54,27 @@ This repository includes a series of focused data analysis projects that showcas
   ![Project 3](Power_Bi/README.md)
 
 ---
+### 📦 Project 4: Brazilian E-Commerce Analysis (Olist)
+
+* **Dataset Focus:** * Comprehensive analysis of 100k+ orders from Brazilian marketplaces, targeting Supply Chain efficiency, Sales trends, and Customer Satisfaction (Reviews).
+
+**Tool Used:** Tableau 📊
+
+**Key Activities & Achievements 🛠️** 
+
+  - Advanced Data Modeling: Built a relationship model connecting 5+ tables (Orders, Customers, Payments, Geolocation) to enable cross-dimensional analysis.
+    
+- Logistics KPI Creation: Developed complex Calculated Fields to track delivery performance, specifically distinguishing 'On Time' vs. 'Late' orders based on estimated delivery dates.
+    
+- Multi-Faceted Storytelling: Designed 3 specialized dashboards:
+    
+        1. Sales & Revenue: Tracking revenue growth, seasonality (Black Friday spikes), and payment method preferences.
+        
+        2. Logistics: Monitoring shipping costs, average delivery time, and delay heatmaps by State.
+        
+        3. Customer Reviews: Analyzing the correlation between delivery delays and customer ratings (1-5 stars).
+
+  ![Project 4](Tableau/README.md)   
+
+---
+     
