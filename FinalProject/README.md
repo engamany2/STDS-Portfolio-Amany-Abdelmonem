@@ -1,4 +1,4 @@
-📌 Project Overview
+**📌 Project Overview**
 GreenStream Energy: Serverless ETL Pipeline Design
 
 GreenStream Energy is a smart-utility provider collecting electricity usage data from 50,000 households. This project focuses on the Design Thinking phase of a data science workflow, transforming "dark data" from smart meters into actionable insights.
