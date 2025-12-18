@@ -53,6 +53,8 @@ Design Tool: Edraw Max / Draw.io
 Architecture Pattern: AWS Serverless (S3, Lambda, RDS, Step Functions)
 
 Data Formats: CSV (Source), Parquet (Optimized Archive)
+
+(diagram.png)
 ## 💬 Author
 **Amany Elfiky**  
 Data Analyst | Data Scientist
