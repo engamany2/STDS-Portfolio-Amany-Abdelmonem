@@ -46,6 +46,8 @@ Archive: The record is converted to Parquet for cost-efficient, high-performance
 
 Success/Failure: Step Functions handle retries (up to 3 times) or route failed records to a Dead Letter Queue (DLQ).
 
+
+
 **The design**
 
 
