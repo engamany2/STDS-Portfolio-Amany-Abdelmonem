@@ -1,6 +1,6 @@
-
-GreenStream Energy: Serverless ETL Pipeline Design
 📌 Project Overview
+GreenStream Energy: Serverless ETL Pipeline Design
+
 GreenStream Energy is a smart-utility provider collecting electricity usage data from 50,000 households. This project focuses on the Design Thinking phase of a data science workflow, transforming "dark data" from smart meters into actionable insights.
 
 The goal is to design an automated, serverless ETL (Extract, Transform, Load) pipeline that standardizes raw data, detects faulty equipment, and prepares datasets for future predictive analytics.
@@ -48,3 +48,8 @@ Design Tool: Edraw Max / Draw.io
 Architecture Pattern: AWS Serverless (S3, Lambda, RDS, Step Functions)
 
 Data Formats: CSV (Source), Parquet (Optimized Archive)
+## 💬 Author
+**Amany Elfiky**  
+Data Analyst | Data Scientist
+
+📧 amanyelfiky2020@gmail.com 
