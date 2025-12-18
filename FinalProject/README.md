@@ -54,7 +54,7 @@ Architecture Pattern: AWS Serverless (S3, Lambda, RDS, Step Functions)
 
 Data Formats: CSV (Source), Parquet (Optimized Archive)
 
-(diagram.png)
+![The design](diagram.png)
 ## 💬 Author
 **Amany Elfiky**  
 Data Analyst | Data Scientist
