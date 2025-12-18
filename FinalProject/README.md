@@ -46,6 +46,11 @@ Archive: The record is converted to Parquet for cost-efficient, high-performance
 
 Success/Failure: Step Functions handle retries (up to 3 times) or route failed records to a Dead Letter Queue (DLQ).
 
+**The design**
+
+
+![The design](diagram.png)
+
 **🛠️ Tools Used**
 
 Design Tool: Edraw Max / Draw.io
@@ -54,7 +59,7 @@ Architecture Pattern: AWS Serverless (S3, Lambda, RDS, Step Functions)
 
 Data Formats: CSV (Source), Parquet (Optimized Archive)
 
-![The design](diagram.png)
+
 ## 💬 Author
 **Amany Elfiky**  
 Data Analyst | Data Scientist
