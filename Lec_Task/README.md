@@ -1,4 +1,4 @@
-Smart Energy Meter ETL Pipeline
+**Smart Energy Meter ETL Pipeline**
 
 This project implements a complete ETL (Extract–Transform–Load) pipeline for processing smart-meter electricity consumption data.
 The pipeline ensures data quality, standardization, validation, and structured storage to support reliable analytics and reporting.
