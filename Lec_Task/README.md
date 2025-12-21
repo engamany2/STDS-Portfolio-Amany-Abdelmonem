@@ -22,8 +22,6 @@ Prepare data for analytics, dashboards, and forecasting
 
 Below is the architecture diagram illustrating the full workflow of the ETL system:
 
-Replace the path if needed
-
 ![ETL Architecture Diagram](ETL.png)
 
 ⚙️ Transformation & Business Rules
