@@ -79,8 +79,9 @@ and project implements a complete ETL (Extract–Transform–Load) pipeline for 
 
 ---
 ### 📦 Final Project: Smart Energy Meter ETL Pipeline
+This project implements a complete ETL (Extract–Transform–Load) pipeline for smart energy meter data. It ingests raw meter readings, cleans and validates them, standardizes energy units, detects faulty or invalid records, and stores clean data in a structured database while archiving analytics-ready data in Parquet format. The system ensures reliable, accurate, and high-quality time-series energy data suitable for dashboards, reporting, and advanced analytics.
 
-
+ ![Final Project](Lec_Task/README.md) 
 
 
 
